@@ -1,0 +1,25 @@
+.container{
+    font-size: 14px;
+}
+
+input{
+    font-size: 12px;
+    border-radius: 0;
+}
+button{
+    font-size: 12px;
+    border-radius: 0;
+}
+
+img{
+    width: 100px;
+    height: 25px;
+}
+a{
+    color: gold;
+    font-weight: 600;
+}
+
+label{
+    font-weight: 600;
+}
